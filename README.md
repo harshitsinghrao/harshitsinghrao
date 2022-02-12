@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kabronwade
+- 👋 Hi, I’m @harshitsinghrao
 - 👀 I’m interested in Deep Reinforcement Learning.
 - 📫 You can contact me on singhraoharshit3@gmail.com
 
